@@ -29,3 +29,7 @@ hs_err_pid*
 *.iml
 
 .idea/
+
+.DS_Store
+
+catalina.base_IS_UNDEFINED
