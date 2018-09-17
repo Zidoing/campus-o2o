@@ -145,6 +145,7 @@
 			<version>3.2</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/net.coobird/thumbnailator -->
+		<!--图片处理类-->
 		<dependency>
 			<groupId>net.coobird</groupId>
 			<artifactId>thumbnailator</artifactId>
